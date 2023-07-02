@@ -14,5 +14,5 @@ Since 2018 that I started to write the first line of code of this project, there
 
 [Interactive Brokers Python API (Native) – A Step-by-step Guide](https://algotrading101.com/learn/interactive-brokers-python-api-native-guide/)<br /> 
 
-I'd like to hear about your experiences with the code. Please let me know if you have any feedback and send me an email at: 
+I'd like to hear about your experiences with the code. Please let me know if you have any feedback and send me an email at: <br />
 williamchuang (at) math (dot) arizona (dot) edu

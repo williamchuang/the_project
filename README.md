@@ -3,7 +3,7 @@
 
 Those rules inluding bu not limited to: While using services, you may only use the data acquired for personal and non-commercial purposes. You may not make the data collected through IB services available to any third party in any way. 
 
-Any code within ext and lib are borrowed from IbPy2 library (written in Python 2), and I coverted them to C with the help of Cython.
+Any *.py code within ext and lib are borrowed from IbPy2 library (written in Python 2).
 
 The official API code can be downloaded at<br /> 
 [IB API Codel Guide](https://interactivebrokers.github.io) 

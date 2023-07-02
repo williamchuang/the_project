@@ -10,7 +10,7 @@ The official API code can be downloaded at<br />
 [IB API Codel Guide](https://interactivebrokers.github.io) 
 
 Since 2018 that I started to write the first line of code of this project, there started to have more and more <br /> 
-well-written introduction on how to use IB Gateway, i.e. the API provided by IB. For instance,<br /> 
+well-written introduction on how to use IB Gateway, i.e. the API provided by IB. They are listed in the following:<br /> 
 
 [Anthony Ng's Github](https://github.com/anthonyng2/ib)<br />
 

@@ -11,6 +11,8 @@ The official API code can be downloaded at<br />
 
 Since 2018 that I started to write the first line of code of this project, there started to have more and more <br /> 
 well-written introduction on how to use IB Gateway, i.e. the API provided by IB. For instance,<br /> 
+[Anthony Ng's Githubl(https://github.com/anthonyng2/ib)<br />
+
 [Trader Workstation API -- Official Guide](https://algotrading101.com/learn/interactive-brokers-python-api-native-guide/)<br /> 
 
 [Interactive Brokers Python API (Native) – A Step-by-step Guide](https://algotrading101.com/learn/interactive-brokers-python-api-native-guide/)<br /> 

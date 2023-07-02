@@ -1,6 +1,6 @@
 # The Project <br /> 
-## Please follow your agreements with Interactive Brokers LLC (IB) for using IB API and Gateway while utilizing<br /> 
-any code in this project.
+### Please follow your agreements with Interactive Brokers LLC (IB) for using IB API and Gateway while utilizing<br /> 
+### any code in this project.
 
 Those rules inluding bu not limited to: While using services, you may only use the data acquired for personal<br /> 
 and non-commercial purposes. You may not make the data collected through IB services available to any third<br /> 

@@ -1,4 +1,4 @@
-# The Project (since 2018) <br /> 
+# The Project <br /> 
 ## Please follow your agreements with Interactive Brokers LLC (IB) for using IB API and Gateway while utilizing<br /> 
 any code in this project.
 

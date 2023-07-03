@@ -5,7 +5,7 @@ from datetime import datetime
 from myWrapper import IBWrapper, contract
 from lib.ext.EClientSocket import EClientSocket
 from lib.ext.ScannerSubscription import ScannerSubscription
-accountName = "U9038813"
+accountName = ""
 callback = IBWrapper()             # Instantiate IBWrapper. callback 
 tws = EClientSocket(callback)      # Instantiate EClientSocket and return data to callback
 # host = "192.168.1.165"
